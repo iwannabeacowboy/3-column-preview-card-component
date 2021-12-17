@@ -13,4 +13,4 @@ Users should be able to:
 
 ## Links 🔗:
 
-- Solution URL: [3-column preview card component](#)
+- Solution URL: [3-column preview card component](https://ecstatic-elion-285c25.netlify.app/)
