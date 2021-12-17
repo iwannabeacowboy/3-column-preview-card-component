@@ -4,7 +4,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Description 📝:
 
-The challenge is to build out this 3-column preview card component and get it looking as close to the design as possible.
+The challenge is to build out this 3-column preview card component and get it looking as close to the original design as possible.
 
 Users should be able to:
 
